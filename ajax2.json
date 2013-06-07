@@ -1,0 +1,12 @@
+{
+"users":[
+{ "tipo":"Entretencion" },
+{"tipo":"Educacion"},
+{ "tipo":"Zoologicos" },
+{"tipo":"Bar/Pub"},
+{ "tipo":"Turismo" },
+{"tipo":"NightClub"},
+{"tipo":"Cine"},
+{"tipo":"Restorants"  }
+]
+}

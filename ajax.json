@@ -1,0 +1,7 @@
+{
+"users":[
+{"nombre":"Pasapoga" , "lat":"-33.429901" , "lon":"-70.622145" , "tipo":"Entretencion" },
+{"nombre":"Instituto Richard Nixon" , "lat":"-33.451862" , "lon":"-70.631039" , "tipo":"Educacion"},
+{"nombre":"Ingenieria UDP" , "lat":"-33.452501" , "lon":"-70.660637" , "tipo":""  }
+]
+}
